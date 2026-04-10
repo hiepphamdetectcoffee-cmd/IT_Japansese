@@ -1,0 +1,5 @@
+{
+  "name": "Japanese IT Communication Practice",
+  "description": "Practice Japanese communication for IT workplace situations with AI through text and voice.",
+  "requestFramePermissions": ["microphone"]
+}
